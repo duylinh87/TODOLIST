@@ -22,6 +22,26 @@
 .App-link {
   color: #61dafb;
 }
+.text-right {
+  float: right;
+}
+.taskform {
+  border: 1px solid lightgray ;
+  padding: 10px 30px 10px;
+  border-radius: 10px
+}
+ .taskform .panel-heading {
+   background: antiquewhite;
+   padding: 7px;
+   /* border-radius: 10px; */
+  
+ }
+ .taskform  h3 {
+  font-size: 18px
+ }
+ /* body {
+   
+ } */
 
 @keyframes App-logo-spin {
   from {
